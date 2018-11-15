@@ -1,0 +1,17 @@
+Creating   'scdlr.eep'
+Creating   'scdlr.hex'
+Creating   'scdlr.obj'
+Creating   'scdlr.lis'
+Creating   'scdlr.map'
+
+Assembling 'scdlr.asm'
+Including  'C:\VMLAB\include\m32def.inc'
+
+Program memory usage:
+Code             :  104 words
+Constants (dw/db):    0 words
+Unused           :   21 words
+Total            :  125 words
+
+Assembly complete with no errors.
+Deleting   'scdlr.eep'
